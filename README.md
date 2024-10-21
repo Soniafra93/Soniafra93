@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soniafra93" alt="soniafra93" /></a> </p>
 
-- 🌱 I’m currently learning **more about UI and UX design**
+🌱 I’m currently learning **more about UI and UX design**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/soniafra93](https://troopl.com/soniafra93)
+👨‍💻 All of my projects are available at [https://troopl.com/soniafra93](https://troopl.com/soniafra93)
 
-- 📫 How to reach me **soniafra.93@gmail.com**
+📫 How to reach me **soniafra.93@gmail.com**
 
-- ⚡ Fun fact **I was delivering babies and I realised I needed to do something more creative. Loved the experience, but I am now eager to learn something completely different.**
+⚡ Fun fact **I was delivering babies and I realised I needed to do something more creative. Loved the experience, but I am now eager to learn something completely different.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
