@@ -4,7 +4,7 @@
 
 <h4 align="center">🌱 I’m currently learning **more about UI and UX design** </h4>
 
-👨‍💻 All of my projects are available at [https://troopl.com/soniafra93](https://troopl.com/soniafra93)
+👨‍💻 All of my projects are available at https://soniafra93.github.io/My_portfolio/
 
 📫 How to reach me **soniafra.93@gmail.com**
 
